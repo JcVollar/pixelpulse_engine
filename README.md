@@ -13,19 +13,19 @@ There's built-in collision detection, so you can't simply walk through trees or 
 
 As of now, there's no game over sequence. If zombies catch you, you're stuck until you've shot them all down. Your only respite? Keep going or hit CTRL+R to restart.
 
-You want to try it without cloneing it ? go to https://game.vollar.no
+You want to try it without cloneing it ? go to https://game.vollar.no?tmp=11
 
 # TODO Features:
-Sprite import: starting with the main player.
-Sound import: for actions like gunshots.
-Implement an area selection mechanism around the player.
-Design a health system: decrease health when attacked by zombies.
-Develop a weapon system.
-Introduce hand-held weapons.
-Include a game-over screen.
-Design a game start splash screen.
-Create an inventory system.
-Introduce water bodies/lakes.
-Integrate architectural elements like houses.
-Ensure zombies can't detect the player behind walls (perhaps they can still hear the player?).
+* Sprite import: starting with the main player.
+* Sound import: for actions like gunshots.
+* Implement an area selection mechanism around the player.
+* Design a health system: decrease health when attacked by zombies.
+* Develop a weapon system.
+* Introduce hand-held weapons.
+* Include a game-over screen.
+* Design a game start splash screen.
+* Create an inventory system.
+* Introduce water bodies/lakes.
+* Integrate architectural elements like houses.
+* Ensure zombies can't detect the player behind walls (perhaps they can still hear the player?).
 
